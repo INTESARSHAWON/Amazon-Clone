@@ -1,0 +1,4 @@
+1. CSS
+2. html
+
+This is a clone of the Amazon website. Its very simple. Only CSS and html are used here.
